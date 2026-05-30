@@ -73,11 +73,11 @@ A full-stack 3D asset management platform that enables users to upload, manage, 
 ## Architecture
 
 Frontend (React + Three.js)
-↓
+--->
 Backend (Node.js + Express)
-↓
+--->
 MongoDB Atlas
-
+---->
 AWS S3 (3D Asset Storage)
 
 ## Screenshots
