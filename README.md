@@ -1,4 +1,7 @@
 # 🚀 3D Asset Hub
+## Live Demo
+
+https://modelverse-ten.vercel.app
 
 A full-stack 3D asset management platform that enables users to upload, manage, visualize, and share interactive 3D models. The platform provides secure authentication, cloud storage, public/private model sharing, and an immersive Three.js-powered 3D viewer.
 
