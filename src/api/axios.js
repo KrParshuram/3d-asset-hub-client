@@ -3,7 +3,7 @@ import axios from "axios";
 
 //creating an instance of axios with a base URL for the API
 const api = axios.create({
-  baseURL: "http://13.239.32.116/api",
+  baseURL: "/api",
 });
 
 // adding an interceptor to include the token in the headers of each request if the user is logged in
